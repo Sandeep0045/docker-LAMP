@@ -15,7 +15,7 @@
 
     <?php
 
-    // Connexion et sélection de la base
+    
     $conn = mysqli_connect('db', 'user', 'test', "myDb");
 
 
